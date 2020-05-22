@@ -33,7 +33,6 @@
 - Alternative fly controls for on-press type height adjustments
 - Per-player-audio options for the current instance
 
-Please make sure to install the managed folder correctly! (Oculus client is not supported)
 
 **How to install;**
 - Install MelonLoader using the installer for version 0.3 https://github.com/thetrueyoshifan/MelonLoaderAutoInstaller/releases/download/1.4.3/MelonLoaderInstaller.bat
@@ -41,6 +40,7 @@ Please make sure to install the managed folder correctly! (Oculus client is not 
 - Download the DLL on the latest release
 - Put the DLL into the "Mods" folder in your VRChat installation
 - Profit
+
 
 ![Example social page](https://i.imgur.com/mtVqjr9.png)
 ![Example in-game menu](https://i.imgur.com/GlSmoFM.png) 
