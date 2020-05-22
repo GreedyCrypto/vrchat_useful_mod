@@ -1,12 +1,8 @@
 # vrchat_useful_mod
 **This mod is made to be used with ([MelonLoader](https://github.com/HerpDerpinstine/MelonLoader)).**
 
-### **This is a free open-source client for VRChat - there is no paid version of this mod - made by hash#0404**
-If you want to stay up to date join the discord server! [Click to join the update-server](https://discord.gg/9DeMwjs)
 
-
-
-**Features of this mod; (screenshots/installation instructions below)**
+**Features of this mod**
 - Flying / NoClip (Oculus compatible, right thumbstick up/down) (Desktop Q & E)
 - Force cloning (public)
 - Clone button in social
@@ -46,9 +42,6 @@ Please make sure to install the managed folder correctly! (Oculus client is not 
 - Put the DLL into the "Mods" folder in your VRChat installation
 - Profit
 
-[Click here for a video guide](https://streamable.com/vom3jl)
-
-
 ![Example social page](https://i.imgur.com/mtVqjr9.png)
 ![Example in-game menu](https://i.imgur.com/GlSmoFM.png) 
 ![Example in-game menu p2](https://i.imgur.com/p1xeD05.png)
@@ -62,8 +55,6 @@ Disclaimer:
 This is not a official modification for VRChat and is not approved by any means.
 Using this is on your own risk, as any modifications to the client can lead to bans.
 
-Want to leave a donation?
-BTC: 3EYNMmVyux4h9dimR5VLxuWSbM3456m2Hk
 
 Special thanks to;
 - @Deathy
